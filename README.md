@@ -13,6 +13,6 @@ This repo contains only this README file with a table of all my [Docker](https:/
 
 <br>
 
-For some of the repos the resulting images are published [under this user](https://hub.docker.com/u/mide76) on *Docker Hub*.
+For some of the repos the resulting images are published [by user "mide76"](https://hub.docker.com/u/mide76) on *Docker Hub*.
 
 <br>
